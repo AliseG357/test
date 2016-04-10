@@ -1,5 +1,5 @@
-﻿= Release 2.1.0 =
-Released: 2016-05-10
+﻿= Release 2.1.2 =
+Released: 2016-05-1
 
 == Changes ==
  * We disabled the stripping of comments on commit messages by default again (see issue #2715)
